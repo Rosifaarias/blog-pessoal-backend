@@ -1,4 +1,4 @@
-# Projeto Blog Pessoal *backend*
+# Projeto Blog Pessoal *Backend*
 
 ## 🚀 Descrição
 O **Blog Pessoal** é uma API desenvolvida em Java com Spring Boot para gerenciamento de postagens e usuários em um blog. O sistema permite a criação, leitura, atualização e remoção (**CRUD**) de postagens, categorias e usuários, além de contar com autenticação e autorização via JWT.
